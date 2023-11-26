@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="650dp"
+    android:height="140dp"
+    android:viewportWidth="650"
+    android:viewportHeight="140">
+    <path
+        android:fillColor="#fe3a3b"
+        android:name="圆角矩形 1"
+        android:pathData="m70 0h510c38.66 0 70 31.34 70 70c0 38.66 -31.34 70 -70 70h-510c-38.66 0 -70 -31.34 -70 -70c0 -38.66 31.34 -70 70 -70z" />
+</vector>
